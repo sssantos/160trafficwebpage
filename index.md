@@ -3,7 +3,7 @@
 
 
 ### The Data
-<img src="images/inventory.jpg" class="img-responsive" alt="" width = 69%> 
+<img src="images/inventory.jpg" class="img-responsive" alt=""> 
 
 ### The Results
 
