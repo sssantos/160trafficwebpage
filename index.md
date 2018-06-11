@@ -1,9 +1,9 @@
 ### The Question
-<img src="images/maze.jpg" alt="hi" class="img-responsive" alt=""> 
+<img src="images/maze.jpg" class="img-responsive" alt=""> 
 
 
 ### The Data
-<img src="images/inventory.jpg" alt="hi" class="img-responsive" alt=""> 
+<img src="images/inventory.jpg" class="img-responsive" alt="" width = 50%> 
 
 ### The Results
 
