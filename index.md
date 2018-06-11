@@ -1,10 +1,9 @@
-### The Question
-<img src="images/maze.jpg" class="img-responsive" alt=""> 
+### Question
+<img src="images/maze.jpg" class="img-responsive" alt="" width = 60%> 
 
 
-### The Data
-<img src="images/inventory.jpg" class="img-responsive" alt="" width = 69%> 
+### Data
+<img src="images/inventory.jpg" class="img-responsive" alt="" width = 60%> 
 
-### The Results
 
-### The Evidence
+### Results & Evidence
