@@ -13,8 +13,7 @@ Our data was collected from the State of California PeMS website. This data cons
 ### 2007 I-580 Connector Collapse   
 ### 2009 Emergency Bay Bridge Closure    
 ### 2013 Labor Day Closure    
-The 2013 Labor Day Bay Bridge closure was planned ahead of time, unlike the 2009 emergency closure, thus allowing local residents and commuters to strategize their travel arrangements during the closure. The closure extended from Wednesday, August 28 to Tuesday, September 3. 
-
+The 2013 Labor Day Bay Bridge closure was planned ahead of time, unlike the 2009 emergency closure, thus allowing local residents and commuters to strategize their travel arrangements during the closure. The closure extended from Wednesday, August 28 to Tuesday, September 3. <br />
 As seen in the following histograms, the bridge closure in 2013 certainly impacted these four freeways significantly more than the effects of just the holiday weekend, as observed in 2012. This is likely a direct result of the Bay Bridge closure, as the bridge lies on the I80. As for SR24, many people from east of the bay area may be avoiding the MacArthur Maze altogether due to the closure of the Bay Bridge. This means that fewer people will be taking this route to and from the bay area, explaining the substantial decline in use during the 2013 Labor Day Weekend. This decline in external commuters entering the Maze in the first place could part of the reason that the I880-S, in particular, sees far lower use as well. The I880-S can be used as a route towards the San Mateo Bridge as an alternative means of entrance into San Francisco, implying a potential increase in use, but, due to the lower traffic into the East Bay in general, this alternative route goes unused. 
 
 <br />
