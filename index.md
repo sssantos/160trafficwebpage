@@ -12,7 +12,13 @@ Our data was collected from the State of California PeMS website. This data cons
 
 # Results
 ### 2007 I-580 Connector Collapse   
-### 2009 Emergency Bay Bridge Closure    
+### 2009 Emergency Bay Bridge Closure  
+On Wednesday, October 27, during the evening commute, the new cross beams installed during the 2009 Labor Day Bay Bridge restoration project came crashing down and caused the bridge to remain closed until the morning of Monday, November 2. The proposed cause of this failure was likely due to the 55 mile per hour wind gusts that ensued on the night of the bridge failure. In order to see how traffic patterns diverged as a result of this incident, we decided to analyze the effects of the Bay Bridge closure on other bridges into San Francisco. The bridges we looked at are as follows: Richmond (A on map), San Mateo (C on map), Dumbarton (D on map).
+
+	To begin our analysis, we looked at weekdays and weekends individually so that we could see the effects of the emergency closure on the daily work commute. From the flow plot to the right regarding weekdays, we can see that all three bridges in question increase abruptly in use in response to the closure of the Bay Bridge. The I92, in both directions, sees the most significant jump in average flow after the emergency closure. This is likely due to the fact that the San Mateo Bridge is the closest in proximity for commuters who normally take the Bay Bridge. The pattern for the I92 holds over the weekend, however the other two bridges do not see the same increase that they experienced during weekdays.
+
+	
+
 ### 2013 Labor Day Closure    
 The 2013 Labor Day Bay Bridge closure was planned ahead of time, unlike the 2009 emergency closure, thus allowing local residents and commuters to strategize their travel arrangements during the closure. The closure extended from Wednesday, August 28 to Tuesday, September 3. 
 <br /><br />
