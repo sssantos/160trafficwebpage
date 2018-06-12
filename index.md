@@ -6,7 +6,7 @@ The MacArthur Maze is an intersection of five different freeways: the I880, I980
 How do freeway closures on the MacArthur Maze influence traffic behavior on the Maze and its freeways? What alternatives freeways are taken due to a closure?
 
 # Data
-Our data was collected from the State of California PeMS website. This data consists of hourly traffic flow (vehicles per hour) for sections of the freeways on and near the Maze for multiple time frames approximately a month long containing the following events: the 2007 I-580 East Connector collapse, the 2009 Emergency Bridge Closure, and the 2013 Labor Day Bridge Closure. Data was collected from previous years of the events to use for comparison. <br />
+Our data was collected from the State of California PeMS website. This data consists of hourly traffic flow (vehicles per hour) and delay (extra time traveled caused by traffic speed under 60mph)for sections of the freeways on and near the Maze for multiple time frames approximately a month long containing the following events: the 2007 I-580 East Connector collapse, the 2009 Emergency Bridge Closure, and the 2013 Labor Day Bridge Closure. Data was collected from previous years of the events to use for comparison. <br />
 <img src="images/inventory.jpg" class="img-responsive" alt="" caption = "PeMS Freeway Sensors"  width = "60%"> 
 
 # Results
