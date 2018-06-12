@@ -11,3 +11,5 @@ Our data was collected from the State of California PeMS website. This data cons
 <img src="images/inventory.jpg" class="img-responsive" alt="" caption = "PeMS Freeway Sensors"  width = "60%"> 
 
 # Results
+### 2013 Labor Day Closure
+<img src="images/2013histograms.jpg" class="img-responsive" alt="" caption = "PeMS Freeway Sensors"  width = "100%"> 
