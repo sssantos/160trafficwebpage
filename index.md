@@ -1,5 +1,5 @@
 ### Question
-<img src="images/maze.jpg" class="img-responsive" alt="" caption = "The MacArthur Maze" width = "70%"> 
+<img src="images/maze.jpg" class="img-responsive" alt="" caption = "The MacArthur Maze" width = "65%"> 
 
 
 ### Data
