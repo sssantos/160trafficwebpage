@@ -3,7 +3,7 @@
 
 
 ### Data
-<img src="images/inventory.jpg" class="img-responsive" alt="" caption = "PeMS Freeway Sensors"  width ="75%"> 
+<img src="images/inventory.jpg" class="img-responsive" alt="" caption = "PeMS Freeway Sensors"  width ="70%"> 
 
 
 ### Results & Evidence
