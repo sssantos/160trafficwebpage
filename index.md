@@ -11,9 +11,9 @@ Our data was collected from the State of California PeMS website. This data cons
 <img src="images/data.jpg" class="img-responsive" alt="" caption = "data table"  width = "70%"> 
 
 # Results
-### 2007 I-580 Connector Collapse
+<!--### 2007 I-580 Connector Collapse
 On April 29th, the connecting ramp from I80 east to I580 east collapsed, landing on the I880. Focusing first on I880 North, we see that traffic flow dropped signifacantly near I880 north's section of the maze. However, 
-
+-->
 ### 2009 Emergency Bay Bridge Closure  
 On Wednesday, October 27, during the evening commute, the new cross beams installed during the 2009 Labor Day Bay Bridge restoration project came crashing down and caused the bridge to remain closed until the morning of Monday, November 2. The proposed cause of this failure was likely due to the 55 mile per hour wind gusts that ensued on the night of the bridge failure. In order to see how traffic patterns diverged as a result of this incident, we decided to analyze the effects of the Bay Bridge closure on other bridges into San Francisco. The bridges we looked at are as follows: Richmond (A on map), San Mateo (C on map), Dumbarton (D on map).  <br />
 <img src="images/2009map.jpg" class="img-responsive" alt="" caption = "data table"  width = "70%"> <br />
