@@ -11,7 +11,9 @@ Our data was collected from the State of California PeMS website. This data cons
 <img src="images/data.jpg" class="img-responsive" alt="" caption = "data table"  width = "70%"> 
 
 # Results
-<!-- ### 2007 I-580 Connector Collapse   -->
+### 2007 I-580 Connector Collapse
+On April 29th, the connecting ramp from I80 east to I580 east collapsed, landing on the I880. Focusing first on I880 North, we see that traffic flow dropped signifacantly near I880 north's section of the maze. However, 
+
 ### 2009 Emergency Bay Bridge Closure  
 On Wednesday, October 27, during the evening commute, the new cross beams installed during the 2009 Labor Day Bay Bridge restoration project came crashing down and caused the bridge to remain closed until the morning of Monday, November 2. The proposed cause of this failure was likely due to the 55 mile per hour wind gusts that ensued on the night of the bridge failure. In order to see how traffic patterns diverged as a result of this incident, we decided to analyze the effects of the Bay Bridge closure on other bridges into San Francisco. The bridges we looked at are as follows: Richmond (A on map), San Mateo (C on map), Dumbarton (D on map).  <br />
 <img src="images/2009map.jpg" class="img-responsive" alt="" caption = "data table"  width = "70%"> <br />
@@ -30,6 +32,6 @@ As seen in the following histograms, the bridge closure in 2013 certainly impact
 <img src="images/2013histograms.jpg" class="img-responsive" alt="" caption = "PeMS Freeway Sensors"  width = "100%"> 
 
 # Conclusion
-As a result of our analysis we were able to diagnose and understand the flow of traffic that occurs throughout the MacArthur Maze in West Oakland. Though none of the freeways are direct substitutes for each other, there are several alternate routes that can be used within the Maze to arrive at the same location. This is best observed during the closure and reopening of the I580 and I880 in 2007 because the main pipeline into San Francisco from the Maze, the Bay Bridge, was still open and functional. People were willing to circumnavigate the closure of the I580 connector in order to take the most direct access route to and from San Francisco for their commutes. This is further supported through our analysis of other bay area bridges in 2009. All three of the bridges, primarily the San Mateo Bridge, that we looked at increased in traffic flow considerably after the emergency closure of the Bay Bridge, in spite of increased BART ridership. This helps cement our conclusion that most commuters are willing to drive to alternate routes in order to avoid a closure on their commutes.
+As a result of our analysis we were able to diagnose and understand the flow of traffic that occurs throughout the MacArthur Maze in West Oakland. Though none of the freeways are direct substitutes for each other, there are several alternate routes that can be used within the Maze to arrive at the same location. All three of the bridges, primarily the San Mateo Bridge, that we looked at increased in traffic flow considerably after the emergency closure of the Bay Bridge, in spite of increased BART ridership. This helps cement our conclusion that most commuters are willing to drive to alternate routes in order to avoid a closure on their commutes.
 	As for the 2013 closure, however, it is still unclear how alternate routes were affected by the closing of the bridge, as the holiday weekend and increase in BART ridership both decreased traffic volume considerably, confounding our analysis. As a result, no hard and fast diagnosis can be made regarding the alternate routes in the Maze during this time; rather, we can only discuss those that experienced abnormally severe shifts in traffic flow.
 
