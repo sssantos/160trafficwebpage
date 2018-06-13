@@ -12,7 +12,7 @@ Our data was collected from the State of California PeMS website. This data cons
 
 # Results
 ### 2007 I-580 Connector Collapse
-On April 29th, the connecting ramp from I80 east to I580 east collapsed, landing on the I880. Focusing first on I880 north, we see that traffic flow dropped signifacantly near I880 north's section of the maze, suggesting that drivers avoided taking I880 north. However, once the connector was rebuilt, traffic flow values became consistent with values before the collapse, suggesting that for many driver's, I880 north is the freeway of choice. The graphs below depict the traffic flows 
+On April 29th, the connecting ramp from I80 east to I580 east collapsed, landing on the I880. Focusing first on I880 north, we see that traffic flow dropped signifacantly near I880 north's section of the maze, suggesting that drivers avoided taking I880 north. However, once the connector was rebuilt, traffic flow values became consistent with values before the collapse, suggesting that for many driver's, I880 north is the freeway of choice. The graphs below depicts the traffic flow between the beginning of April to the end of May. <br />
 <img src="images/20007.jpg" class="img-responsive" alt="" caption = "PeMS Freeway Sensors"  width = "70%"> 
 
 
